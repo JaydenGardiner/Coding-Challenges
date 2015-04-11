@@ -11,7 +11,6 @@ import java.util.Scanner;
  * O(N^2) for each line, but considering you iterate over k number of
  * lines only once, the following operations are thus O(N^2). 
  * k - number of lines + N^2 - # of elements
- * I don't see a way to make this faster.
  * 
  * @author Jayden Gardiner
  * @version 1.3
