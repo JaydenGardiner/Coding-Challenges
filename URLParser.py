@@ -1,5 +1,5 @@
-#Coding challenge for Eventbrite
-#By Jayden Gardiner
+# Coding challenge for Eventbrite
+# By Jayden Gardiner
 
 # -----------------------------------------------
 # This project should be completed using the
