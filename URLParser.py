@@ -52,16 +52,6 @@ def parse_url(url):
     # Return a dictionary containing the URL's protocol, host, and uri.
     return dict;
 
-
-
-
-
-
-
-
-
-
-
 # -----------------------------------------------
 #  TEST CODE AND MAIN
 # -----------------------------------------------
